@@ -1,16 +1,19 @@
-## Hi there 👋
+# Sudrashan
 
-<!--
-**sudrashannndev/sudrashannndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate at Bahria University Karachi. Writing real code,
+building real projects, and actively looking for an internship to do both professionally.
 
-Here are some ideas to get you started:
+I work primarily in Java and C++, with a solid grip on Object-Oriented Programming,
+Data Structures & Algorithms, and Database Systems. Over the past year I've collaborated
+on 6+ projects spanning inventory systems, appointment schedulers, dynamic pricing
+engines, and e-commerce platforms. Not tutorials. Actual systems with real logic,
+file handling, and architecture decisions behind them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On the leadership side, I serve as Secretary of the CSP Club at Bahria University
+where I manage cross-functional teams, drive event execution, and handle operations
+across Management and Marketing departments.
+
+Currently open to software development internships. If you're building something
+interesting, let's talk.
+
+📩 sudrashannn@gmail.com
