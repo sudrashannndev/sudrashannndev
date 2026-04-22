@@ -1,7 +1,7 @@
-Hi, I'm Sudrashan Kumar
+# Hi, I'm Sudrashan Kumar
 Computer Science Student | Aspiring Software Engineer
 
-# About Me
+**About Me**
 Computer Science student at Bahria University Karachi focused on software engineering and building practical, real-world applications.
 I primarily work with C++, Java, and JavaScript, with strong foundations in Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), and Database Systems. I am currently expanding into Web Development while also exploring Artificial Intelligence, Machine Learning, Data Science, and Cloud Computing through academic and project-based learning.
 Alongside technical development, I serve as Secretary at CSP Club BUKC, where I contribute to coordination, leadership, and execution of university-level initiatives.
